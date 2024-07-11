@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{53A30171-93C6-148E-744E-DE599AE23F99}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MusicController.cs">
+    <Files>
+      <File FileName="Assets/RandomMovement.cs" Line="73" Column="1" />
+      <File FileName="Assets/TerrainGenerator.cs" Line="45" Column="1" />
+      <File FileName="Assets/MusicManager.cs" Line="32" Column="1" />
+      <File FileName="Assets/MusicController.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Procedural Music Generation" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MusicController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f353b31-0808-4633-ac45-73d56761d2c0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
